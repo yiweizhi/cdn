@@ -1,0 +1,20 @@
+[
+  {
+    "value": "bar-rich-text",
+    "name": "天气统计（富文本）",
+    "cover": "components/echarts/thumb/bar-rich-text.webp",
+    "option": "components/echarts/option/bar-rich-text.js"
+  },
+  {
+    "value": "pie-rich-text",
+    "name": "富文本标签",
+    "cover": "components/echarts/thumb/pie-rich-text.webp",
+    "option": "components/echarts/option/pie-rich-text.js"
+  },
+  {
+    "value": "pie-nest",
+    "name": "嵌套环形图",
+    "cover": "components/echarts/thumb/pie-nest.webp",
+    "option": "components/echarts/option/pie-nest.js"
+  }
+]

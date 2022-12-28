@@ -1,0 +1,44 @@
+[
+  {
+    "value": "sankey-simple",
+    "name": "基础桑基图",
+    "cover": "components/echarts/thumb/sankey-simple.webp",
+    "option": "components/echarts/option/sankey-simple.js"
+  },
+  {
+    "value": "sankey-vertical",
+    "name": "垂直方向的桑基图",
+    "cover": "components/echarts/thumb/sankey-vertical.webp",
+    "option": "components/echarts/option/sankey-vertical.js"
+  },
+  {
+    "value": "sankey-itemstyle",
+    "name": "桑基图节点自定义样式",
+    "cover": "components/echarts/thumb/sankey-itemstyle.webp",
+    "option": "components/echarts/option/sankey-itemstyle.js"
+  },
+  {
+    "value": "sankey-levels",
+    "name": "桑基图层级自定义样式",
+    "cover": "components/echarts/thumb/sankey-levels.webp",
+    "option": "components/echarts/option/sankey-levels.js"
+  },
+  {
+    "value": "sankey-energy",
+    "name": "桑基图渐变色边",
+    "cover": "components/echarts/thumb/sankey-energy.webp",
+    "option": "components/echarts/option/sankey-energy.js"
+  },
+  {
+    "value": "sankey-nodeAlign-left",
+    "name": "桑基图左对齐布局",
+    "cover": "components/echarts/thumb/sankey-nodeAlign-left.webp",
+    "option": "components/echarts/option/sankey-nodeAlign-left.js"
+  },
+  {
+    "value": "sankey-nodeAlign-right",
+    "name": "桑基图右对齐布局",
+    "cover": "components/echarts/thumb/sankey-nodeAlign-right.webp",
+    "option": "components/echarts/option/sankey-nodeAlign-right.js"
+  }
+]

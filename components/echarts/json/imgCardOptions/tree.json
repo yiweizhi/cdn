@@ -1,0 +1,44 @@
+[
+  {
+    "value": "tree-basic",
+    "name": "从左到右树状图",
+    "cover": "components/echarts/thumb/tree-basic.webp",
+    "option": "components/echarts/option/tree-basic.js"
+  },
+  {
+    "value": "tree-legend",
+    "name": "多棵树",
+    "cover": "components/echarts/thumb/tree-legend.webp",
+    "option": "components/echarts/option/tree-legend.js"
+  },
+  {
+    "value": "tree-orient-bottom-top",
+    "name": "从下到上树状图",
+    "cover": "components/echarts/thumb/tree-orient-bottom-top.webp",
+    "option": "components/echarts/option/tree-orient-bottom-top.js"
+  },
+  {
+    "value": "tree-orient-right-left",
+    "name": "从右到左树状图",
+    "cover": "components/echarts/thumb/tree-orient-right-left.webp",
+    "option": "components/echarts/option/tree-orient-right-left.js"
+  },
+  {
+    "value": "tree-polyline",
+    "name": "折线树图",
+    "cover": "components/echarts/thumb/tree-polyline.webp",
+    "option": "components/echarts/option/tree-polyline.js"
+  },
+  {
+    "value": "tree-radial",
+    "name": "径向树状图",
+    "cover": "components/echarts/thumb/tree-radial.webp",
+    "option": "components/echarts/option/tree-radial.js"
+  },
+  {
+    "value": "tree-vertical",
+    "name": "从上到下树状图",
+    "cover": "components/echarts/thumb/tree-vertical.webp",
+    "option": "components/echarts/option/tree-vertical.js"
+  }
+]

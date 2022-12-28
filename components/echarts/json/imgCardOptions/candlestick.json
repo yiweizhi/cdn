@@ -1,0 +1,44 @@
+[
+  {
+    "value": "candlestick-simple",
+    "name": "基础 K 线图",
+    "cover": "components/echarts/thumb/candlestick-simple.webp",
+    "option": "components/echarts/option/candlestick-simple.js"
+  },
+  {
+    "value": "custom-ohlc",
+    "name": "OHLC 图（使用自定义系列）",
+    "cover": "components/echarts/thumb/custom-ohlc.webp",
+    "option": "components/echarts/option/custom-ohlc.js"
+  },
+  {
+    "value": "candlestick-sh",
+    "name": "上证指数",
+    "cover": "components/echarts/thumb/candlestick-sh.webp",
+    "option": "components/echarts/option/candlestick-sh.js"
+  },
+  {
+    "value": "candlestick-large",
+    "name": "大数据量K线图",
+    "cover": "components/echarts/thumb/candlestick-large.webp",
+    "option": "components/echarts/option/candlestick-large.js"
+  },
+  {
+    "value": "candlestick-touch",
+    "name": "触屏上的坐标轴指示器",
+    "cover": "components/echarts/thumb/candlestick-touch.webp",
+    "option": "components/echarts/option/candlestick-touch.js"
+  },
+  {
+    "value": "candlestick-brush",
+    "name": "K 线图刷选",
+    "cover": "components/echarts/thumb/candlestick-brush.webp",
+    "option": "components/echarts/option/candlestick-brush.js"
+  },
+  {
+    "value": "candlestick-sh-2015",
+    "name": "2015 年上证指数",
+    "cover": "components/echarts/thumb/candlestick-sh-2015.webp",
+    "option": "components/echarts/option/candlestick-sh-2015.js"
+  }
+]

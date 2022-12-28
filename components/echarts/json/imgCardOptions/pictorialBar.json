@@ -1,0 +1,50 @@
+[
+  {
+    "value": "pictorialBar-bar-transition",
+    "name": "象形主图变形为柱状图",
+    "cover": "components/echarts/thumb/pictorialBar-bar-transition.webp",
+    "option": "components/echarts/option/pictorialBar-bar-transition.js"
+  },
+  {
+    "value": "pictorialBar-body-fill",
+    "name": "人体含水量",
+    "cover": "components/echarts/thumb/pictorialBar-body-fill.webp",
+    "option": "components/echarts/option/pictorialBar-body-fill.js"
+  },
+  {
+    "value": "pictorialBar-dotted",
+    "name": "虚线柱状图效果",
+    "cover": "components/echarts/thumb/pictorialBar-dotted.webp",
+    "option": "components/echarts/option/pictorialBar-dotted.js"
+  },
+  {
+    "value": "pictorialBar-forest",
+    "name": "森林的增长",
+    "cover": "components/echarts/thumb/pictorialBar-forest.webp",
+    "option": "components/echarts/option/pictorialBar-forest.js"
+  },
+  {
+    "value": "pictorialBar-hill",
+    "name": "圣诞愿望清单和山峰高度",
+    "cover": "components/echarts/thumb/pictorialBar-hill.webp",
+    "option": "components/echarts/option/pictorialBar-hill.js"
+  },
+  {
+    "value": "pictorialBar-spirit",
+    "name": "精灵",
+    "cover": "components/echarts/thumb/pictorialBar-spirit.webp",
+    "option": "components/echarts/option/pictorialBar-spirit.js"
+  },
+  {
+    "value": "pictorialBar-vehicle",
+    "name": "交通工具",
+    "cover": "components/echarts/thumb/pictorialBar-vehicle.webp",
+    "option": "components/echarts/option/pictorialBar-vehicle.js"
+  },
+  {
+    "value": "pictorialBar-velocity",
+    "name": "驯鹿的速度",
+    "cover": "components/echarts/thumb/pictorialBar-velocity.webp",
+    "option": "components/echarts/option/pictorialBar-velocity.js"
+  }
+]

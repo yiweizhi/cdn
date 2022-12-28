@@ -1,0 +1,92 @@
+[
+  {
+    "value": "custom-hexbin",
+    "name": "六边形分箱图（自定义系列）",
+    "cover": "components/echarts/thumb/custom-hexbin.webp",
+    "option": "components/echarts/option/custom-hexbin.js"
+  },
+  {
+    "value": "custom-calendar-icon",
+    "name": "日历图自定义图标",
+    "cover": "components/echarts/thumb/custom-calendar-icon.webp",
+    "option": "components/echarts/option/custom-calendar-icon.js"
+  },
+  {
+    "value": "bar-histogram",
+    "name": "直方图（自定义系列）",
+    "cover": "components/echarts/thumb/bar-histogram.webp",
+    "option": "components/echarts/option/bar-histogram.js"
+  },
+  {
+    "value": "custom-profit",
+    "name": "利润分布直方图",
+    "cover": "components/echarts/thumb/custom-profit.webp",
+    "option": "components/echarts/option/custom-profit.js"
+  },
+  {
+    "value": "custom-bar-trend",
+    "name": "使用自定义系列添加柱状图趋势",
+    "cover": "components/echarts/thumb/custom-bar-trend.webp",
+    "option": "components/echarts/option/custom-bar-trend.js"
+  },
+  {
+    "value": "custom-cartesian-polygon",
+    "name": "自定义多边形图",
+    "cover": "components/echarts/thumb/custom-cartesian-polygon.webp",
+    "option": "components/echarts/option/custom-cartesian-polygon.js"
+  },
+  {
+    "value": "custom-error-bar",
+    "name": "使用自定系列给柱状图添加误差范围",
+    "cover": "components/echarts/thumb/custom-error-bar.webp",
+    "option": "components/echarts/option/custom-error-bar.js"
+  },
+  {
+    "value": "custom-profile",
+    "name": "性能分析图",
+    "cover": "components/echarts/thumb/custom-profile.webp",
+    "option": "components/echarts/option/custom-profile.js"
+  },
+  {
+    "value": "cycle-plot",
+    "name": "Cycle Plot",
+    "cover": "components/echarts/thumb/cycle-plot.webp",
+    "option": "components/echarts/option/cycle-plot.js"
+  },
+  {
+    "value": "custom-polar-heatmap",
+    "name": "极坐标热力图（自定义系列）",
+    "cover": "components/echarts/thumb/custom-polar-heatmap.webp",
+    "option": "components/echarts/option/custom-polar-heatmap.js"
+  },
+  {
+    "value": "custom-wind",
+    "name": "使用自定义系列绘制风场",
+    "cover": "components/echarts/thumb/custom-wind.webp",
+    "option": "components/echarts/option/custom-wind.js"
+  },
+  {
+    "value": "custom-gauge",
+    "name": "自定义仪表",
+    "cover": "components/echarts/thumb/custom-gauge.webp",
+    "option": "components/echarts/option/custom-gauge.js"
+  },
+  {
+    "value": "pie-parliament-transition",
+    "name": "自定义议会图与饼图过渡动画",
+    "cover": "components/echarts/thumb/pie-parliament-transition.webp",
+    "option": "components/echarts/option/pie-parliament-transition.js"
+  },
+  {
+    "value": "circle-packing-with-d3",
+    "name": "Circle Packing with d3",
+    "cover": "components/echarts/thumb/circle-packing-with-d3.webp",
+    "option": "components/echarts/option/circle-packing-with-d3.js"
+  },
+  {
+    "value": "custom-spiral-race",
+    "name": "自定义螺旋线竞速",
+    "cover": "components/echarts/thumb/custom-spiral-race.webp",
+    "option": "components/echarts/option/custom-spiral-race.js"
+  }
+]

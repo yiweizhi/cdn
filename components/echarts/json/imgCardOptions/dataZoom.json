@@ -1,0 +1,26 @@
+[
+  {
+    "value": "area-simple",
+    "name": "大数据量面积图",
+    "cover": "components/echarts/thumb/area-simple.webp",
+    "option": "components/echarts/option/area-simple.js"
+  },
+  {
+    "value": "line-tooltip-touch",
+    "name": "移动端上的 dataZoom 和 tooltip",
+    "cover": "components/echarts/thumb/line-tooltip-touch.webp",
+    "option": "components/echarts/option/line-tooltip-touch.js"
+  },
+  {
+    "value": "custom-error-scatter",
+    "name": "使用自定系列给散点图添加误差范围",
+    "cover": "components/echarts/thumb/custom-error-scatter.webp",
+    "option": "components/echarts/option/custom-error-scatter.js"
+  },
+  {
+    "value": "wind-barb",
+    "name": "风向图",
+    "cover": "components/echarts/thumb/wind-barb.webp",
+    "option": "components/echarts/option/wind-barb.js"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "value": "bar-background",
+    "name": "带背景色的柱状图",
+    "cover": "components/echarts/thumb/bar-background.webp",
+    "option": "components/echarts/option/bar-background.js"
+  },
+  {
+    "value": "bar-simple",
+    "name": "基础柱状图",
+    "cover": "components/echarts/thumb/bar-simple.webp",
+    "option": "components/echarts/option/bar-simple.js"
+  },
+  {
+    "value": "bar-tick-align",
+    "name": "坐标轴刻度与标签对齐",
+    "cover": "components/echarts/thumb/bar-tick-align.webp",
+    "option": "components/echarts/option/bar-tick-align.js"
+  },
+  {
+    "value": "bar-data-color",
+    "name": "自定义单个柱子颜色",
+    "cover": "components/echarts/thumb/bar-data-color.webp",
+    "option": "components/echarts/option/bar-data-color.js"
+  },
+  {
+    "value": "bar-waterfall",
+    "name": "瀑布图（柱状图模拟）",
+    "cover": "components/echarts/thumb/bar-waterfall.webp",
+    "option": "components/echarts/option/bar-waterfall.js"
+  },
+  {
+    "value": "bar-negative2",
+    "name": "交错正负轴标签",
+    "cover": "components/echarts/thumb/bar-negative2.webp",
+    "option": "components/echarts/option/bar-negative2.js"
+  },
+  {
+    "value": "bar-polar-label-radial",
+    "name": "极坐标柱状图标签",
+    "cover": "components/echarts/thumb/bar-polar-label-radial.webp",
+    "option": "components/echarts/option/bar-polar-label-radial.js"
+  },
+  {
+    "value": "bar-polar-label-tangential",
+    "name": "极坐标柱状图标签",
+    "cover": "components/echarts/thumb/bar-polar-label-tangential.webp",
+    "option": "components/echarts/option/bar-polar-label-tangential.js"
+  },
+  {
+    "value": "bar-y-category",
+    "name": "世界人口总量 - 条形图",
+    "cover": "components/echarts/thumb/bar-y-category.webp",
+    "option": "components/echarts/option/bar-y-category.js"
+  },
+  {
+    "value": "bar-gradient",
+    "name": "特性示例：渐变色 阴影 点击缩放",
+    "cover": "components/echarts/thumb/bar-gradient.webp",
+    "option": "components/echarts/option/bar-gradient.js"
+  },
+  {
+    "value": "bar-label-rotation",
+    "name": "柱状图标签旋转",
+    "cover": "components/echarts/thumb/bar-label-rotation.webp",
+    "option": "components/echarts/option/bar-label-rotation.js"
+  },
+  {
+    "value": "bar-stack",
+    "name": "堆叠柱状图",
+    "cover": "components/echarts/thumb/bar-stack.webp",
+    "option": "components/echarts/option/bar-stack.js"
+  },
+  {
+    "value": "bar-waterfall2",
+    "name": "阶梯瀑布图（柱状图模拟）",
+    "cover": "components/echarts/thumb/bar-waterfall2.webp",
+    "option": "components/echarts/option/bar-waterfall2.js"
+  },
+  {
+    "value": "bar-y-category-stack",
+    "name": "堆叠条形图",
+    "cover": "components/echarts/thumb/bar-y-category-stack.webp",
+    "option": "components/echarts/option/bar-y-category-stack.js"
+  },
+  {
+    "value": "bar-brush",
+    "name": "柱状图框选",
+    "cover": "components/echarts/thumb/bar-brush.webp",
+    "option": "components/echarts/option/bar-brush.js"
+  },
+  {
+    "value": "bar-negative",
+    "name": "正负条形图",
+    "cover": "components/echarts/thumb/bar-negative.webp",
+    "option": "components/echarts/option/bar-negative.js"
+  },
+  {
+    "value": "bar1",
+    "name": "某地区蒸发量和降水量",
+    "cover": "components/echarts/thumb/bar1.webp",
+    "option": "components/echarts/option/bar1.js"
+  },
+  {
+    "value": "mix-line-bar",
+    "name": "折柱混合",
+    "cover": "components/echarts/thumb/mix-line-bar.webp",
+    "option": "components/echarts/option/mix-line-bar.js"
+  },
+  {
+    "value": "mix-zoom-on-value",
+    "name": "多数值轴轴缩放",
+    "cover": "components/echarts/thumb/mix-zoom-on-value.webp",
+    "option": "components/echarts/option/mix-zoom-on-value.js"
+  },
+  {
+    "value": "multiple-y-axis",
+    "name": "多 Y 轴示例",
+    "cover": "components/echarts/thumb/multiple-y-axis.webp",
+    "option": "components/echarts/option/multiple-y-axis.js"
+  },
+  {
+    "value": "bar-animation-delay",
+    "name": "柱状图动画延迟",
+    "cover": "components/echarts/thumb/bar-animation-delay.webp",
+    "option": "components/echarts/option/bar-animation-delay.js"
+  },
+  {
+    "value": "bar-drilldown",
+    "name": "柱状图下钻动画",
+    "cover": "components/echarts/thumb/bar-drilldown.webp",
+    "option": "components/echarts/option/bar-drilldown.js"
+  },
+  {
+    "value": "bar-large",
+    "name": "大数据量柱图",
+    "cover": "components/echarts/thumb/bar-large.webp",
+    "option": "components/echarts/option/bar-large.js"
+  },
+  {
+    "value": "bar-race",
+    "name": "动态排序柱状图",
+    "cover": "components/echarts/thumb/bar-race.webp",
+    "option": "components/echarts/option/bar-race.js"
+  },
+  {
+    "value": "bar-race-country",
+    "name": "动态排序柱状图 - 人均收入",
+    "cover": "components/echarts/thumb/bar-race-country.webp",
+    "option": "components/echarts/option/bar-race-country.js"
+  },
+  {
+    "value": "dynamic-data",
+    "name": "动态数据",
+    "cover": "components/echarts/thumb/dynamic-data.webp",
+    "option": "components/echarts/option/dynamic-data.js"
+  },
+  {
+    "value": "mix-timeline-finance",
+    "name": "2002全国宏观经济指标",
+    "cover": "components/echarts/thumb/mix-timeline-finance.webp",
+    "option": "components/echarts/option/mix-timeline-finance.js"
+  },
+  {
+    "value": "watermark",
+    "name": "水印 - ECharts 下载统计",
+    "cover": "components/echarts/thumb/watermark.webp",
+    "option": "components/echarts/option/watermark.js"
+  },
+  {
+    "value": "bar-polar-real-estate",
+    "name": "Bar Chart on Polar",
+    "cover": "components/echarts/thumb/bar-polar-real-estate.webp",
+    "option": "components/echarts/option/bar-polar-real-estate.js"
+  },
+  {
+    "value": "bar-polar-stack",
+    "name": "极坐标系下的堆叠柱状图",
+    "cover": "components/echarts/thumb/bar-polar-stack.webp",
+    "option": "components/echarts/option/bar-polar-stack.js"
+  },
+  {
+    "value": "bar-polar-stack-radial",
+    "name": "极坐标系下的堆叠柱状图",
+    "cover": "components/echarts/thumb/bar-polar-stack-radial.webp",
+    "option": "components/echarts/option/bar-polar-stack-radial.js"
+  },
+  {
+    "value": "polar-roundCap",
+    "name": "圆角环形图",
+    "cover": "components/echarts/thumb/polar-roundCap.webp",
+    "option": "components/echarts/option/polar-roundCap.js"
+  }
+]

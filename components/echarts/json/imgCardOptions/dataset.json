@@ -1,0 +1,56 @@
+[
+  {
+    "value": "dataset-link",
+    "name": "联动和共享数据集",
+    "cover": "components/echarts/thumb/dataset-link.webp",
+    "option": "components/echarts/option/dataset-link.js"
+  },
+  {
+    "value": "data-transform-sort-bar",
+    "name": "柱状图排序",
+    "cover": "components/echarts/thumb/data-transform-sort-bar.webp",
+    "option": "components/echarts/option/data-transform-sort-bar.js"
+  },
+  {
+    "value": "dataset-encode0",
+    "name": "指定数据到坐标轴的映射",
+    "cover": "components/echarts/thumb/dataset-encode0.webp",
+    "option": "components/echarts/option/dataset-encode0.js"
+  },
+  {
+    "value": "dataset-series-layout-by",
+    "name": "系列按行和按列排布",
+    "cover": "components/echarts/thumb/dataset-series-layout-by.webp",
+    "option": "components/echarts/option/dataset-series-layout-by.js"
+  },
+  {
+    "value": "dataset-simple0",
+    "name": "最简单的数据集（dataset）",
+    "cover": "components/echarts/thumb/dataset-simple0.webp",
+    "option": "components/echarts/option/dataset-simple0.js"
+  },
+  {
+    "value": "dataset-simple1",
+    "name": "对象数组的输入格式",
+    "cover": "components/echarts/thumb/dataset-simple1.webp",
+    "option": "components/echarts/option/dataset-simple1.js"
+  },
+  {
+    "value": "data-transform-multiple-pie",
+    "name": "分割数据到数个饼图",
+    "cover": "components/echarts/thumb/data-transform-multiple-pie.webp",
+    "option": "components/echarts/option/data-transform-multiple-pie.js"
+  },
+  {
+    "value": "dataset-default",
+    "name": "默认 encode 设置",
+    "cover": "components/echarts/thumb/dataset-default.webp",
+    "option": "components/echarts/option/dataset-default.js"
+  },
+  {
+    "value": "dataset-encode1",
+    "name": "指定数据到坐标轴的映射",
+    "cover": "components/echarts/thumb/dataset-encode1.webp",
+    "option": "components/echarts/option/dataset-encode1.js"
+  }
+]

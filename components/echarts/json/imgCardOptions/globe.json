@@ -1,0 +1,50 @@
+[
+  {
+    "value": "animating-contour-on-globe",
+    "name": "Animating Contour on Globe",
+    "cover": "components/echarts/thumb/animating-contour-on-globe.webp",
+    "option": "components/echarts/option/animating-contour-on-globe.js"
+  },
+  {
+    "value": "globe-atmosphere",
+    "name": "大气层显示",
+    "cover": "components/echarts/thumb/globe-atmosphere.webp",
+    "option": "components/echarts/option/globe-atmosphere.js"
+  },
+  {
+    "value": "globe-contour-paint",
+    "name": "Contour Paint",
+    "cover": "components/echarts/thumb/globe-contour-paint.webp",
+    "option": "components/echarts/option/globe-contour-paint.js"
+  },
+  {
+    "value": "globe-displacement",
+    "name": "Globe Displacement",
+    "cover": "components/echarts/thumb/globe-displacement.webp",
+    "option": "components/echarts/option/globe-displacement.js"
+  },
+  {
+    "value": "globe-echarts-gl-hello-world",
+    "name": "ECharts-GL Hello World",
+    "cover": "components/echarts/thumb/globe-echarts-gl-hello-world.webp",
+    "option": "components/echarts/option/globe-echarts-gl-hello-world.js"
+  },
+  {
+    "value": "globe-layers",
+    "name": "Globe Layers",
+    "cover": "components/echarts/thumb/globe-layers.webp",
+    "option": "components/echarts/option/globe-layers.js"
+  },
+  {
+    "value": "globe-moon",
+    "name": "Moon",
+    "cover": "components/echarts/thumb/globe-moon.webp",
+    "option": "components/echarts/option/globe-moon.js"
+  },
+  {
+    "value": "iron-globe",
+    "name": "Iron globe",
+    "cover": "components/echarts/thumb/iron-globe.webp",
+    "option": "components/echarts/option/iron-globe.js"
+  }
+]

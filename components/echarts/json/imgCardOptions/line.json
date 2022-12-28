@@ -1,0 +1,188 @@
+[
+  {
+    "value": "line-simple",
+    "name": "基础折线图",
+    "cover": "components/echarts/thumb/line-simple.webp",
+    "option": "components/echarts/option/line-simple.js"
+  },
+  {
+    "value": "line-smooth",
+    "name": "基础平滑折线图",
+    "cover": "components/echarts/thumb/line-smooth.webp",
+    "option": "components/echarts/option/line-smooth.js"
+  },
+  {
+    "value": "area-basic",
+    "name": "基础面积图",
+    "cover": "components/echarts/thumb/area-basic.webp",
+    "option": "components/echarts/option/area-basic.js"
+  },
+  {
+    "value": "line-stack",
+    "name": "折线图堆叠",
+    "cover": "components/echarts/thumb/line-stack.webp",
+    "option": "components/echarts/option/line-stack.js"
+  },
+  {
+    "value": "area-stack",
+    "name": "堆叠面积图",
+    "cover": "components/echarts/thumb/area-stack.webp",
+    "option": "components/echarts/option/area-stack.js"
+  },
+  {
+    "value": "area-stack-gradient",
+    "name": "渐变堆叠面积图",
+    "cover": "components/echarts/thumb/area-stack-gradient.webp",
+    "option": "components/echarts/option/area-stack-gradient.js"
+  },
+  {
+    "value": "line-marker",
+    "name": "未来一周气温变化",
+    "cover": "components/echarts/thumb/line-marker.webp",
+    "option": "components/echarts/option/line-marker.js"
+  },
+  {
+    "value": "area-pieces",
+    "name": "折线图区域高亮",
+    "cover": "components/echarts/thumb/area-pieces.webp",
+    "option": "components/echarts/option/area-pieces.js"
+  },
+  {
+    "value": "data-transform-filter",
+    "name": "数据过滤",
+    "cover": "components/echarts/thumb/data-transform-filter.webp",
+    "option": "components/echarts/option/data-transform-filter.js"
+  },
+  {
+    "value": "line-gradient",
+    "name": "折线图的渐变",
+    "cover": "components/echarts/thumb/line-gradient.webp",
+    "option": "components/echarts/option/line-gradient.js"
+  },
+  {
+    "value": "line-sections",
+    "name": "一天用电量分布",
+    "cover": "components/echarts/thumb/line-sections.webp",
+    "option": "components/echarts/option/line-sections.js"
+  },
+  {
+    "value": "confidence-band",
+    "name": "Confidence Band",
+    "cover": "components/echarts/thumb/confidence-band.webp",
+    "option": "components/echarts/option/confidence-band.js"
+  },
+  {
+    "value": "grid-multiple",
+    "name": "雨量Evaporation关系图",
+    "cover": "components/echarts/thumb/grid-multiple.webp",
+    "option": "components/echarts/option/grid-multiple.js"
+  },
+  {
+    "value": "line-aqi",
+    "name": "北京 AQI 可视化",
+    "cover": "components/echarts/thumb/line-aqi.webp",
+    "option": "components/echarts/option/line-aqi.js"
+  },
+  {
+    "value": "multiple-x-axis",
+    "name": "多 X 轴",
+    "cover": "components/echarts/thumb/multiple-x-axis.webp",
+    "option": "components/echarts/option/multiple-x-axis.js"
+  },
+  {
+    "value": "area-rainfall",
+    "name": "雨量流量关系图",
+    "cover": "components/echarts/thumb/area-rainfall.webp",
+    "option": "components/echarts/option/area-rainfall.js"
+  },
+  {
+    "value": "area-time-axis",
+    "name": "时间轴折线图",
+    "cover": "components/echarts/thumb/area-time-axis.webp",
+    "option": "components/echarts/option/area-time-axis.js"
+  },
+  {
+    "value": "dynamic-data2",
+    "name": "动态数据 + 时间坐标轴",
+    "cover": "components/echarts/thumb/dynamic-data2.webp",
+    "option": "components/echarts/option/dynamic-data2.js"
+  },
+  {
+    "value": "line-function",
+    "name": "函数绘图",
+    "cover": "components/echarts/thumb/line-function.webp",
+    "option": "components/echarts/option/line-function.js"
+  },
+  {
+    "value": "line-race",
+    "name": "动态排序折线图",
+    "cover": "components/echarts/thumb/line-race.webp",
+    "option": "components/echarts/option/line-race.js"
+  },
+  {
+    "value": "line-markline",
+    "name": "折线图的标记线",
+    "cover": "components/echarts/thumb/line-markline.webp",
+    "option": "components/echarts/option/line-markline.js"
+  },
+  {
+    "value": "line-style",
+    "name": "自定义折线图样式",
+    "cover": "components/echarts/thumb/line-style.webp",
+    "option": "components/echarts/option/line-style.js"
+  },
+  {
+    "value": "line-in-cartesian-coordinate-system",
+    "name": "双数值轴折线图",
+    "cover": "components/echarts/thumb/line-in-cartesian-coordinate-system.webp",
+    "option": "components/echarts/option/line-in-cartesian-coordinate-system.js"
+  },
+  {
+    "value": "line-log",
+    "name": "对数轴示例",
+    "cover": "components/echarts/thumb/line-log.webp",
+    "option": "components/echarts/option/line-log.js"
+  },
+  {
+    "value": "line-step",
+    "name": "阶梯折线图",
+    "cover": "components/echarts/thumb/line-step.webp",
+    "option": "components/echarts/option/line-step.js"
+  },
+  {
+    "value": "line-easing",
+    "name": "缓动函数可视化",
+    "cover": "components/echarts/thumb/line-easing.webp",
+    "option": "components/echarts/option/line-easing.js"
+  },
+  {
+    "value": "line-y-category",
+    "name": "垂直折线图（Y轴为类目轴）",
+    "cover": "components/echarts/thumb/line-y-category.webp",
+    "option": "components/echarts/option/line-y-category.js"
+  },
+  {
+    "value": "line-graphic",
+    "name": "自定义图形组件",
+    "cover": "components/echarts/thumb/line-graphic.webp",
+    "option": "components/echarts/option/line-graphic.js"
+  },
+  {
+    "value": "line-pen",
+    "name": "点击添加折线图拐点",
+    "cover": "components/echarts/thumb/line-pen.webp",
+    "option": "components/echarts/option/line-pen.js"
+  },
+  {
+    "value": "line-polar",
+    "name": "极坐标双数值轴",
+    "cover": "components/echarts/thumb/line-polar.webp",
+    "option": "components/echarts/option/line-polar.js"
+  },
+  {
+    "value": "line-polar2",
+    "name": "极坐标双数值轴",
+    "cover": "components/echarts/thumb/line-polar2.webp",
+    "option": "components/echarts/option/line-polar2.js"
+  }
+]

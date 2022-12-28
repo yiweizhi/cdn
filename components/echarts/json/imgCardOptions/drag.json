@@ -1,0 +1,14 @@
+[
+  {
+    "value": "line-draggable",
+    "name": "可拖拽点",
+    "cover": "components/echarts/thumb/line-draggable.webp",
+    "option": "components/echarts/option/line-draggable.js"
+  },
+  {
+    "value": "custom-gantt-flight",
+    "name": "机场航班甘特图",
+    "cover": "components/echarts/thumb/custom-gantt-flight.webp",
+    "option": "components/echarts/option/custom-gantt-flight.js"
+  }
+]

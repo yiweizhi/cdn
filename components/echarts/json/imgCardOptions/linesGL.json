@@ -1,0 +1,8 @@
+[
+  {
+    "value": "linesGL-ny",
+    "name": "实时交互的纽约街道可视化",
+    "cover": "components/echarts/thumb/linesGL-ny.webp",
+    "option": "components/echarts/option/linesGL-ny.js"
+  }
+]

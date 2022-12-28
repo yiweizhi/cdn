@@ -1,0 +1,50 @@
+[
+  {
+    "value": "calendar-pie",
+    "name": "日历饼图",
+    "cover": "components/echarts/thumb/calendar-pie.webp",
+    "option": "components/echarts/option/calendar-pie.js"
+  },
+  {
+    "value": "calendar-charts",
+    "name": "日历图",
+    "cover": "components/echarts/thumb/calendar-charts.webp",
+    "option": "components/echarts/option/calendar-charts.js"
+  },
+  {
+    "value": "calendar-heatmap",
+    "name": "日历热力图",
+    "cover": "components/echarts/thumb/calendar-heatmap.webp",
+    "option": "components/echarts/option/calendar-heatmap.js"
+  },
+  {
+    "value": "calendar-vertical",
+    "name": "纵向日历图",
+    "cover": "components/echarts/thumb/calendar-vertical.webp",
+    "option": "components/echarts/option/calendar-vertical.js"
+  },
+  {
+    "value": "calendar-graph",
+    "name": "日历关系图",
+    "cover": "components/echarts/thumb/calendar-graph.webp",
+    "option": "components/echarts/option/calendar-graph.js"
+  },
+  {
+    "value": "calendar-simple",
+    "name": "基础日历图",
+    "cover": "components/echarts/thumb/calendar-simple.webp",
+    "option": "components/echarts/option/calendar-simple.js"
+  },
+  {
+    "value": "calendar-horizontal",
+    "name": "横向日历图",
+    "cover": "components/echarts/thumb/calendar-horizontal.webp",
+    "option": "components/echarts/option/calendar-horizontal.js"
+  },
+  {
+    "value": "calendar-lunar",
+    "name": "农历日历图",
+    "cover": "components/echarts/thumb/calendar-lunar.webp",
+    "option": "components/echarts/option/calendar-lunar.js"
+  }
+]

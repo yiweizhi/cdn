@@ -1,0 +1,8 @@
+[
+  {
+    "value": "line3d-orthographic",
+    "name": "三维折线图正交投影",
+    "cover": "components/echarts/thumb/line3d-orthographic.webp",
+    "option": "components/echarts/option/line3d-orthographic.js"
+  }
+]

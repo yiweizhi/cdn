@@ -1,0 +1,62 @@
+[
+  {
+    "value": "pie-simple",
+    "name": "某站点用户Access From",
+    "cover": "components/echarts/thumb/pie-simple.webp",
+    "option": "components/echarts/option/pie-simple.js"
+  },
+  {
+    "value": "pie-borderRadius",
+    "name": "圆角环形图",
+    "cover": "components/echarts/thumb/pie-borderRadius.webp",
+    "option": "components/echarts/option/pie-borderRadius.js"
+  },
+  {
+    "value": "pie-doughnut",
+    "name": "环形图",
+    "cover": "components/echarts/thumb/pie-doughnut.webp",
+    "option": "components/echarts/option/pie-doughnut.js"
+  },
+  {
+    "value": "pie-custom",
+    "name": "饼图自定义样式",
+    "cover": "components/echarts/thumb/pie-custom.webp",
+    "option": "components/echarts/option/pie-custom.js"
+  },
+  {
+    "value": "pie-pattern",
+    "name": "饼图纹理",
+    "cover": "components/echarts/thumb/pie-pattern.webp",
+    "option": "components/echarts/option/pie-pattern.js"
+  },
+  {
+    "value": "pie-roseType",
+    "name": "南丁格尔玫瑰图",
+    "cover": "components/echarts/thumb/pie-roseType.webp",
+    "option": "components/echarts/option/pie-roseType.js"
+  },
+  {
+    "value": "pie-roseType-simple",
+    "name": "基础南丁格尔玫瑰图",
+    "cover": "components/echarts/thumb/pie-roseType-simple.webp",
+    "option": "components/echarts/option/pie-roseType-simple.js"
+  },
+  {
+    "value": "pie-alignTo",
+    "name": "饼图标签对齐",
+    "cover": "components/echarts/thumb/pie-alignTo.webp",
+    "option": "components/echarts/option/pie-alignTo.js"
+  },
+  {
+    "value": "pie-labelLine-adjust",
+    "name": "饼图引导线调整",
+    "cover": "components/echarts/thumb/pie-labelLine-adjust.webp",
+    "option": "components/echarts/option/pie-labelLine-adjust.js"
+  },
+  {
+    "value": "pie-legend",
+    "name": "可滚动的图例",
+    "cover": "components/echarts/thumb/pie-legend.webp",
+    "option": "components/echarts/option/pie-legend.js"
+  }
+]

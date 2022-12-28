@@ -1,0 +1,8 @@
+[
+  {
+    "value": "scatterGL-gps",
+    "name": "1 千万 GPS 点可视化",
+    "cover": "components/echarts/thumb/scatterGL-gps.webp",
+    "option": "components/echarts/option/scatterGL-gps.js"
+  }
+]

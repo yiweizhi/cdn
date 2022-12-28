@@ -1,0 +1,14 @@
+[
+  {
+    "value": "themeRiver-basic",
+    "name": "主题河流图",
+    "cover": "components/echarts/thumb/themeRiver-basic.webp",
+    "option": "components/echarts/option/themeRiver-basic.js"
+  },
+  {
+    "value": "themeRiver-lastfm",
+    "name": "ThemeRiver Lastfm",
+    "cover": "components/echarts/thumb/themeRiver-lastfm.webp",
+    "option": "components/echarts/option/themeRiver-lastfm.js"
+  }
+]

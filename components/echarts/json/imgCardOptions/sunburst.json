@@ -1,0 +1,44 @@
+[
+  {
+    "value": "sunburst-simple",
+    "name": "基础旭日图",
+    "cover": "components/echarts/thumb/sunburst-simple.webp",
+    "option": "components/echarts/option/sunburst-simple.js"
+  },
+  {
+    "value": "sunburst-borderRadius",
+    "name": "圆角旭日图",
+    "cover": "components/echarts/thumb/sunburst-borderRadius.webp",
+    "option": "components/echarts/option/sunburst-borderRadius.js"
+  },
+  {
+    "value": "sunburst-label-rotate",
+    "name": "旭日图标签旋转",
+    "cover": "components/echarts/thumb/sunburst-label-rotate.webp",
+    "option": "components/echarts/option/sunburst-label-rotate.js"
+  },
+  {
+    "value": "sunburst-monochrome",
+    "name": "Monochrome Sunburst",
+    "cover": "components/echarts/thumb/sunburst-monochrome.webp",
+    "option": "components/echarts/option/sunburst-monochrome.js"
+  },
+  {
+    "value": "sunburst-visualMap",
+    "name": "旭日图使用视觉编码",
+    "cover": "components/echarts/thumb/sunburst-visualMap.webp",
+    "option": "components/echarts/option/sunburst-visualMap.js"
+  },
+  {
+    "value": "sunburst-drink",
+    "name": "Drink Flavors",
+    "cover": "components/echarts/thumb/sunburst-drink.webp",
+    "option": "components/echarts/option/sunburst-drink.js"
+  },
+  {
+    "value": "sunburst-book",
+    "name": "书籍分布",
+    "cover": "components/echarts/thumb/sunburst-book.webp",
+    "option": "components/echarts/option/sunburst-book.js"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "value": "data-transform-aggregate",
+    "name": "简单的数据聚合",
+    "cover": "components/echarts/thumb/data-transform-aggregate.webp",
+    "option": "components/echarts/option/data-transform-aggregate.js"
+  },
+  {
+    "value": "boxplot-light-velocity",
+    "name": "基础盒须图",
+    "cover": "components/echarts/thumb/boxplot-light-velocity.webp",
+    "option": "components/echarts/option/boxplot-light-velocity.js"
+  },
+  {
+    "value": "boxplot-light-velocity2",
+    "name": "垂直方向盒须图",
+    "cover": "components/echarts/thumb/boxplot-light-velocity2.webp",
+    "option": "components/echarts/option/boxplot-light-velocity2.js"
+  },
+  {
+    "value": "boxplot-multi",
+    "name": "多系列盒须图",
+    "cover": "components/echarts/thumb/boxplot-multi.webp",
+    "option": "components/echarts/option/boxplot-multi.js"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "value": "scatter-simple",
+    "name": "基础散点图",
+    "cover": "components/echarts/thumb/scatter-simple.webp",
+    "option": "components/echarts/option/scatter-simple.js"
+  },
+  {
+    "value": "scatter-anscombe-quartet",
+    "name": "Anscomb's quartet",
+    "cover": "components/echarts/thumb/scatter-anscombe-quartet.webp",
+    "option": "components/echarts/option/scatter-anscombe-quartet.js"
+  },
+  {
+    "value": "scatter-clustering",
+    "name": "数据聚合",
+    "cover": "components/echarts/thumb/scatter-clustering.webp",
+    "option": "components/echarts/option/scatter-clustering.js"
+  },
+  {
+    "value": "scatter-clustering-process",
+    "name": "聚合过程可视化",
+    "cover": "components/echarts/thumb/scatter-clustering-process.webp",
+    "option": "components/echarts/option/scatter-clustering-process.js"
+  },
+  {
+    "value": "scatter-exponential-regression",
+    "name": "指数回归（使用统计插件）",
+    "cover": "components/echarts/thumb/scatter-exponential-regression.webp",
+    "option": "components/echarts/option/scatter-exponential-regression.js"
+  },
+  {
+    "value": "scatter-effect",
+    "name": "涟漪特效散点图",
+    "cover": "components/echarts/thumb/scatter-effect.webp",
+    "option": "components/echarts/option/scatter-effect.js"
+  },
+  {
+    "value": "scatter-linear-regression",
+    "name": "线性回归（使用统计插件）",
+    "cover": "components/echarts/thumb/scatter-linear-regression.webp",
+    "option": "components/echarts/option/scatter-linear-regression.js"
+  },
+  {
+    "value": "scatter-polynomial-regression",
+    "name": "多项式回归（使用统计插件）",
+    "cover": "components/echarts/thumb/scatter-polynomial-regression.webp",
+    "option": "components/echarts/option/scatter-polynomial-regression.js"
+  },
+  {
+    "value": "scatter-punchCard",
+    "name": "GitHub 打卡气泡图",
+    "cover": "components/echarts/thumb/scatter-punchCard.webp",
+    "option": "components/echarts/option/scatter-punchCard.js"
+  },
+  {
+    "value": "scatter-single-axis",
+    "name": "单轴散点图",
+    "cover": "components/echarts/thumb/scatter-single-axis.webp",
+    "option": "components/echarts/option/scatter-single-axis.js"
+  },
+  {
+    "value": "scatter-weight",
+    "name": "男性女性身高体重分布",
+    "cover": "components/echarts/thumb/scatter-weight.webp",
+    "option": "components/echarts/option/scatter-weight.js"
+  },
+  {
+    "value": "scatter-aggregate-bar",
+    "name": "散点图聚合为柱状图动画",
+    "cover": "components/echarts/thumb/scatter-aggregate-bar.webp",
+    "option": "components/echarts/option/scatter-aggregate-bar.js"
+  },
+  {
+    "value": "scatter-label-align-right",
+    "name": "散点图标签顶部对齐",
+    "cover": "components/echarts/thumb/scatter-label-align-right.webp",
+    "option": "components/echarts/option/scatter-label-align-right.js"
+  },
+  {
+    "value": "scatter-label-align-top",
+    "name": "散点图标签顶部对齐",
+    "cover": "components/echarts/thumb/scatter-label-align-top.webp",
+    "option": "components/echarts/option/scatter-label-align-top.js"
+  },
+  {
+    "value": "scatter-symbol-morph",
+    "name": "散点图变形动画",
+    "cover": "components/echarts/thumb/scatter-symbol-morph.webp",
+    "option": "components/echarts/option/scatter-symbol-morph.js"
+  },
+  {
+    "value": "scatter-large",
+    "name": "大规模散点图",
+    "cover": "components/echarts/thumb/scatter-large.webp",
+    "option": "components/echarts/option/scatter-large.js"
+  },
+  {
+    "value": "scatter-nebula",
+    "name": "大规模星云散点图",
+    "cover": "components/echarts/thumb/scatter-nebula.webp",
+    "option": "components/echarts/option/scatter-nebula.js"
+  },
+  {
+    "value": "scatter-stream-visual",
+    "name": "流式渲染和视觉映射操作",
+    "cover": "components/echarts/thumb/scatter-stream-visual.webp",
+    "option": "components/echarts/option/scatter-stream-visual.js"
+  },
+  {
+    "value": "bubble-gradient",
+    "name": "气泡图",
+    "cover": "components/echarts/thumb/bubble-gradient.webp",
+    "option": "components/echarts/option/bubble-gradient.js"
+  },
+  {
+    "value": "scatter-aqi-color",
+    "name": "AQI 气泡图",
+    "cover": "components/echarts/thumb/scatter-aqi-color.webp",
+    "option": "components/echarts/option/scatter-aqi-color.js"
+  },
+  {
+    "value": "scatter-nutrients",
+    "name": "营养分布散点图",
+    "cover": "components/echarts/thumb/scatter-nutrients.webp",
+    "option": "components/echarts/option/scatter-nutrients.js"
+  },
+  {
+    "value": "scatter-nutrients-matrix",
+    "name": "营养分布散点矩阵",
+    "cover": "components/echarts/thumb/scatter-nutrients-matrix.webp",
+    "option": "components/echarts/option/scatter-nutrients-matrix.js"
+  },
+  {
+    "value": "scatter-polar-punchCard",
+    "name": "GitHub 打卡气泡图（极坐标）",
+    "cover": "components/echarts/thumb/scatter-polar-punchCard.webp",
+    "option": "components/echarts/option/scatter-polar-punchCard.js"
+  },
+  {
+    "value": "scatter-life-expectancy-timeline",
+    "name": "各国人均寿命与GDP关系演变",
+    "cover": "components/echarts/thumb/scatter-life-expectancy-timeline.webp",
+    "option": "components/echarts/option/scatter-life-expectancy-timeline.js"
+  },
+  {
+    "value": "scatter-painter-choice",
+    "name": "Master Painter Color Choices Throughout\n                                                        History",
+    "cover": "components/echarts/thumb/scatter-painter-choice.webp",
+    "option": "components/echarts/option/scatter-painter-choice.js"
+  },
+  {
+    "value": "scatter-logarithmic-regression",
+    "name": "对数回归（使用统计插件）",
+    "cover": "components/echarts/thumb/scatter-logarithmic-regression.webp",
+    "option": "components/echarts/option/scatter-logarithmic-regression.js"
+  }
+]

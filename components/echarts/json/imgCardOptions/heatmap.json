@@ -1,0 +1,26 @@
+[
+  {
+    "value": "heatmap-cartesian",
+    "name": "笛卡尔坐标系上的热力图",
+    "cover": "components/echarts/thumb/heatmap-cartesian.webp",
+    "option": "components/echarts/option/heatmap-cartesian.js"
+  },
+  {
+    "value": "heatmap-large",
+    "name": "热力图 - 2w 数据",
+    "cover": "components/echarts/thumb/heatmap-large.webp",
+    "option": "components/echarts/option/heatmap-large.js"
+  },
+  {
+    "value": "heatmap-large-piecewise",
+    "name": "热力图 - 颜色的离散映射",
+    "cover": "components/echarts/thumb/heatmap-large-piecewise.webp",
+    "option": "components/echarts/option/heatmap-large-piecewise.js"
+  },
+  {
+    "value": "heatmap-bmap",
+    "name": "热力图与百度地图扩展",
+    "cover": "components/echarts/thumb/heatmap-bmap.webp",
+    "option": "components/echarts/option/heatmap-bmap.js"
+  }
+]

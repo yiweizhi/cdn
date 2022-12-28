@@ -1,0 +1,20 @@
+[
+  {
+    "value": "flowGL-noise",
+    "name": "直角坐标系上的向量场",
+    "cover": "components/echarts/thumb/flowGL-noise.webp",
+    "option": "components/echarts/option/flowGL-noise.js"
+  },
+  {
+    "value": "global-wind-visualization",
+    "name": "Global wind visualization",
+    "cover": "components/echarts/thumb/global-wind-visualization.webp",
+    "option": "components/echarts/option/global-wind-visualization.js"
+  },
+  {
+    "value": "global-wind-visualization-2",
+    "name": "Global Wind Visualization 2",
+    "cover": "components/echarts/thumb/global-wind-visualization-2.webp",
+    "option": "components/echarts/option/global-wind-visualization-2.js"
+  }
+]

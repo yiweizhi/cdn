@@ -1,0 +1,26 @@
+[
+  {
+    "value": "lines3d-airline-on-globe",
+    "name": "Airline on Globe",
+    "cover": "components/echarts/thumb/lines3d-airline-on-globe.webp",
+    "option": "components/echarts/option/lines3d-airline-on-globe.js"
+  },
+  {
+    "value": "lines3d-flights",
+    "name": "Flights",
+    "cover": "components/echarts/thumb/lines3d-flights.webp",
+    "option": "components/echarts/option/lines3d-flights.js"
+  },
+  {
+    "value": "lines3d-flights-gl",
+    "name": "Flights GL",
+    "cover": "components/echarts/thumb/lines3d-flights-gl.webp",
+    "option": "components/echarts/option/lines3d-flights-gl.js"
+  },
+  {
+    "value": "lines3d-flights-on-geo3d",
+    "name": "Flights on Geo3D",
+    "cover": "components/echarts/thumb/lines3d-flights-on-geo3d.webp",
+    "option": "components/echarts/option/lines3d-flights-on-geo3d.js"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "value": "funnel",
+    "name": "漏斗图",
+    "cover": "components/echarts/thumb/funnel.webp",
+    "option": "components/echarts/option/funnel.js"
+  },
+  {
+    "value": "funnel-align",
+    "name": "漏斗图(对比)",
+    "cover": "components/echarts/thumb/funnel-align.webp",
+    "option": "components/echarts/option/funnel-align.js"
+  },
+  {
+    "value": "funnel-customize",
+    "name": "漏斗图",
+    "cover": "components/echarts/thumb/funnel-customize.webp",
+    "option": "components/echarts/option/funnel-customize.js"
+  },
+  {
+    "value": "funnel-mutiple",
+    "name": "Funnel",
+    "cover": "components/echarts/thumb/funnel-mutiple.webp",
+    "option": "components/echarts/option/funnel-mutiple.js"
+  }
+]

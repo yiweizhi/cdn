@@ -1,0 +1,68 @@
+[
+  {
+    "value": "image-surface-sushuang",
+    "name": "Image Surface Sushuang",
+    "cover": "components/echarts/thumb/image-surface-sushuang.webp",
+    "option": "components/echarts/option/image-surface-sushuang.js"
+  },
+  {
+    "value": "metal-surface",
+    "name": "Metal Surface",
+    "cover": "components/echarts/thumb/metal-surface.webp",
+    "option": "components/echarts/option/metal-surface.js"
+  },
+  {
+    "value": "parametric-surface-rose",
+    "name": "Parametric Surface Rose",
+    "cover": "components/echarts/thumb/parametric-surface-rose.webp",
+    "option": "components/echarts/option/parametric-surface-rose.js"
+  },
+  {
+    "value": "simple-surface",
+    "name": "Simple Surface",
+    "cover": "components/echarts/thumb/simple-surface.webp",
+    "option": "components/echarts/option/simple-surface.js"
+  },
+  {
+    "value": "sphere-parametric-surface",
+    "name": "Sphere Parametric Surface",
+    "cover": "components/echarts/thumb/sphere-parametric-surface.webp",
+    "option": "components/echarts/option/sphere-parametric-surface.js"
+  },
+  {
+    "value": "surface-breather",
+    "name": "Breather",
+    "cover": "components/echarts/thumb/surface-breather.webp",
+    "option": "components/echarts/option/surface-breather.js"
+  },
+  {
+    "value": "surface-golden-rose",
+    "name": "Golden Rose",
+    "cover": "components/echarts/thumb/surface-golden-rose.webp",
+    "option": "components/echarts/option/surface-golden-rose.js"
+  },
+  {
+    "value": "surface-leather",
+    "name": "皮革材质",
+    "cover": "components/echarts/thumb/surface-leather.webp",
+    "option": "components/echarts/option/surface-leather.js"
+  },
+  {
+    "value": "surface-mollusc-shell",
+    "name": "Mollusc Shell",
+    "cover": "components/echarts/thumb/surface-mollusc-shell.webp",
+    "option": "components/echarts/option/surface-mollusc-shell.js"
+  },
+  {
+    "value": "surface-theme-roses",
+    "name": "Theme Roses",
+    "cover": "components/echarts/thumb/surface-theme-roses.webp",
+    "option": "components/echarts/option/surface-theme-roses.js"
+  },
+  {
+    "value": "surface-wave",
+    "name": "Surface Wave",
+    "cover": "components/echarts/thumb/surface-wave.webp",
+    "option": "components/echarts/option/surface-wave.js"
+  }
+]

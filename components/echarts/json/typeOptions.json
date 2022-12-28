@@ -1,0 +1,150 @@
+[
+  {
+    "name": "折线图",
+    "value": "line"
+  },
+  {
+    "name": "柱状图",
+    "value": "bar"
+  },
+  {
+    "name": "饼图",
+    "value": "pie"
+  },
+  {
+    "name": "散点图",
+    "value": "scatter"
+  },
+  {
+    "name": "地理坐标/地图",
+    "value": "map"
+  },
+  {
+    "name": "K 线图",
+    "value": "candlestick"
+  },
+  {
+    "name": "雷达图",
+    "value": "radar"
+  },
+  {
+    "name": "盒须图",
+    "value": "boxplot"
+  },
+  {
+    "name": "热力图",
+    "value": "heatmap"
+  },
+  {
+    "name": "关系图",
+    "value": "graph"
+  },
+  {
+    "name": "路径图",
+    "value": "lines"
+  },
+  {
+    "name": "树图",
+    "value": "tree"
+  },
+  {
+    "name": "矩形树图",
+    "value": "treemap"
+  },
+  {
+    "name": "旭日图",
+    "value": "sunburst"
+  },
+  {
+    "name": "平行坐标系",
+    "value": "parallel"
+  },
+  {
+    "name": "桑基图",
+    "value": "sankey"
+  },
+  {
+    "name": "漏斗图",
+    "value": "funnel"
+  },
+  {
+    "name": "仪表盘",
+    "value": "gauge"
+  },
+  {
+    "name": "象形柱图",
+    "value": "pictorialBar"
+  },
+  {
+    "name": "主题河流图",
+    "value": "themeRiver"
+  },
+  {
+    "name": "日历坐标系",
+    "value": "calendar"
+  },
+  {
+    "name": "自定义系列",
+    "value": "custom"
+  },
+  {
+    "name": "数据集",
+    "value": "dataset"
+  },
+  {
+    "name": "数据区域缩放",
+    "value": "dataZoom"
+  },
+  {
+    "name": "拖拽",
+    "value": "drag"
+  },
+  {
+    "name": "富文本",
+    "value": "rich"
+  },
+  {
+    "name": "3D 地球",
+    "value": "globe"
+  },
+  {
+    "name": "3D 柱状图",
+    "value": "bar3D"
+  },
+  {
+    "name": "3D 散点图",
+    "value": "scatter3D"
+  },
+  {
+    "name": "3D 曲面",
+    "value": "surface"
+  },
+  {
+    "name": "3D 地图",
+    "value": "map3D"
+  },
+  {
+    "name": "3D 路径图",
+    "value": "lines3D"
+  },
+  {
+    "name": "3D 折线图",
+    "value": "line3D"
+  },
+  {
+    "name": "GL 散点图",
+    "value": "scatterGL"
+  },
+  {
+    "name": "GL 路径图",
+    "value": "linesGL"
+  },
+  {
+    "name": "GL 矢量场图",
+    "value": "flowGL"
+  },
+  {
+    "name": "GL 关系图",
+    "value": "graphGL"
+  }
+]

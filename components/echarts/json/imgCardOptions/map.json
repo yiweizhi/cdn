@@ -1,0 +1,80 @@
+[
+  {
+    "value": "effectScatter-bmap",
+    "name": "全国主要城市空气质量 - 百度地图",
+    "cover": "components/echarts/thumb/effectScatter-bmap.webp",
+    "option": "components/echarts/option/effectScatter-bmap.js"
+  },
+  {
+    "value": "geo-beef-cuts",
+    "name": "庖丁解牛",
+    "cover": "components/echarts/thumb/geo-beef-cuts.webp",
+    "option": "components/echarts/option/geo-beef-cuts.js"
+  },
+  {
+    "value": "geo-organ",
+    "name": "内脏数据（SVG）",
+    "cover": "components/echarts/thumb/geo-organ.webp",
+    "option": "components/echarts/option/geo-organ.js"
+  },
+  {
+    "value": "geo-seatmap-flight",
+    "name": "航班选座（SVG）",
+    "cover": "components/echarts/thumb/geo-seatmap-flight.webp",
+    "option": "components/echarts/option/geo-seatmap-flight.js"
+  },
+  {
+    "value": "geo-svg-lines",
+    "name": "GEO 路径图（SVG）",
+    "cover": "components/echarts/thumb/geo-svg-lines.webp",
+    "option": "components/echarts/option/geo-svg-lines.js"
+  },
+  {
+    "value": "geo-svg-map",
+    "name": "地图（SVG）",
+    "cover": "components/echarts/thumb/geo-svg-map.webp",
+    "option": "components/echarts/option/geo-svg-map.js"
+  },
+  {
+    "value": "geo-svg-scatter-simple",
+    "name": "散点图（SVG）",
+    "cover": "components/echarts/thumb/geo-svg-scatter-simple.webp",
+    "option": "components/echarts/option/geo-svg-scatter-simple.js"
+  },
+  {
+    "value": "geo-svg-traffic",
+    "name": "交通（SVG）",
+    "cover": "components/echarts/thumb/geo-svg-traffic.webp",
+    "option": "components/echarts/option/geo-svg-traffic.js"
+  },
+  {
+    "value": "map-bar-morph",
+    "name": "地图柱状图变形动画",
+    "cover": "components/echarts/thumb/map-bar-morph.webp",
+    "option": "components/echarts/option/map-bar-morph.js"
+  },
+  {
+    "value": "map-bin",
+    "name": "Binning on Map",
+    "cover": "components/echarts/thumb/map-bin.webp",
+    "option": "components/echarts/option/map-bin.js"
+  },
+  {
+    "value": "map-HK",
+    "name": "香港18区人口密度 （2011）",
+    "cover": "components/echarts/thumb/map-HK.webp",
+    "option": "components/echarts/option/map-HK.js"
+  },
+  {
+    "value": "map-polygon",
+    "name": "在地图上绘制多边形",
+    "cover": "components/echarts/thumb/map-polygon.webp",
+    "option": "components/echarts/option/map-polygon.js"
+  },
+  {
+    "value": "map-usa",
+    "name": "2012 年美国人口统计",
+    "cover": "components/echarts/thumb/map-usa.webp",
+    "option": "components/echarts/option/map-usa.js"
+  }
+]

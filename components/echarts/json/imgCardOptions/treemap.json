@@ -1,0 +1,44 @@
+[
+  {
+    "value": "treemap-sunburst-transition",
+    "name": "矩形树图和旭日图的动画过渡",
+    "cover": "components/echarts/thumb/treemap-sunburst-transition.webp",
+    "option": "components/echarts/option/treemap-sunburst-transition.js"
+  },
+  {
+    "value": "treemap-disk",
+    "name": "磁盘占用",
+    "cover": "components/echarts/thumb/treemap-disk.webp",
+    "option": "components/echarts/option/treemap-disk.js"
+  },
+  {
+    "value": "treemap-drill-down",
+    "name": "ECharts 配置项查询分布",
+    "cover": "components/echarts/thumb/treemap-drill-down.webp",
+    "option": "components/echarts/option/treemap-drill-down.js"
+  },
+  {
+    "value": "treemap-obama",
+    "name": "How $3.7 Trillion is Spent",
+    "cover": "components/echarts/thumb/treemap-obama.webp",
+    "option": "components/echarts/option/treemap-obama.js"
+  },
+  {
+    "value": "treemap-show-parent",
+    "name": "显示父层级标签",
+    "cover": "components/echarts/thumb/treemap-show-parent.webp",
+    "option": "components/echarts/option/treemap-show-parent.js"
+  },
+  {
+    "value": "treemap-simple",
+    "name": "基础矩形树图",
+    "cover": "components/echarts/thumb/treemap-simple.webp",
+    "option": "components/echarts/option/treemap-simple.js"
+  },
+  {
+    "value": "treemap-visual",
+    "name": "映射为渐变色",
+    "cover": "components/echarts/thumb/treemap-visual.webp",
+    "option": "components/echarts/option/treemap-visual.js"
+  }
+]

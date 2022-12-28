@@ -1,0 +1,26 @@
+[
+  {
+    "value": "scatter-matrix",
+    "name": "散点矩阵和平行坐标",
+    "cover": "components/echarts/thumb/scatter-matrix.webp",
+    "option": "components/echarts/option/scatter-matrix.js"
+  },
+  {
+    "value": "parallel-simple",
+    "name": "基础平行坐标",
+    "cover": "components/echarts/thumb/parallel-simple.webp",
+    "option": "components/echarts/option/parallel-simple.js"
+  },
+  {
+    "value": "parallel-aqi",
+    "name": "AQI 分布（平行坐标）",
+    "cover": "components/echarts/thumb/parallel-aqi.webp",
+    "option": "components/echarts/option/parallel-aqi.js"
+  },
+  {
+    "value": "parallel-nutrients",
+    "name": "营养结构（平行坐标）",
+    "cover": "components/echarts/thumb/parallel-nutrients.webp",
+    "option": "components/echarts/option/parallel-nutrients.js"
+  }
+]

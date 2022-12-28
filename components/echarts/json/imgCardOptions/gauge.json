@@ -1,0 +1,74 @@
+[
+  {
+    "value": "gauge",
+    "name": "基础仪表盘",
+    "cover": "components/echarts/thumb/gauge.webp",
+    "option": "components/echarts/option/gauge.js"
+  },
+  {
+    "value": "gauge-simple",
+    "name": "带标签数字动画的基础仪表盘",
+    "cover": "components/echarts/thumb/gauge-simple.webp",
+    "option": "components/echarts/option/gauge-simple.js"
+  },
+  {
+    "value": "gauge-speed",
+    "name": "速度仪表盘",
+    "cover": "components/echarts/thumb/gauge-speed.webp",
+    "option": "components/echarts/option/gauge-speed.js"
+  },
+  {
+    "value": "gauge-progress",
+    "name": "进度仪表盘",
+    "cover": "components/echarts/thumb/gauge-progress.webp",
+    "option": "components/echarts/option/gauge-progress.js"
+  },
+  {
+    "value": "gauge-stage",
+    "name": "阶段速度仪表盘",
+    "cover": "components/echarts/thumb/gauge-stage.webp",
+    "option": "components/echarts/option/gauge-stage.js"
+  },
+  {
+    "value": "gauge-grade",
+    "name": "等级仪表盘",
+    "cover": "components/echarts/thumb/gauge-grade.webp",
+    "option": "components/echarts/option/gauge-grade.js"
+  },
+  {
+    "value": "gauge-multi-title",
+    "name": "多标题仪表盘",
+    "cover": "components/echarts/thumb/gauge-multi-title.webp",
+    "option": "components/echarts/option/gauge-multi-title.js"
+  },
+  {
+    "value": "gauge-temperature",
+    "name": "气温仪表盘",
+    "cover": "components/echarts/thumb/gauge-temperature.webp",
+    "option": "components/echarts/option/gauge-temperature.js"
+  },
+  {
+    "value": "gauge-ring",
+    "name": "得分环",
+    "cover": "components/echarts/thumb/gauge-ring.webp",
+    "option": "components/echarts/option/gauge-ring.js"
+  },
+  {
+    "value": "gauge-barometer",
+    "name": "气压表",
+    "cover": "components/echarts/thumb/gauge-barometer.webp",
+    "option": "components/echarts/option/gauge-barometer.js"
+  },
+  {
+    "value": "gauge-clock",
+    "name": "时钟仪表盘",
+    "cover": "components/echarts/thumb/gauge-clock.webp",
+    "option": "components/echarts/option/gauge-clock.js"
+  },
+  {
+    "value": "gauge-car",
+    "name": "Gauge Car",
+    "cover": "components/echarts/thumb/gauge-car.webp",
+    "option": "components/echarts/option/gauge-car.js"
+  }
+]

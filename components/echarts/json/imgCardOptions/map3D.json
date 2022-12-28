@@ -1,0 +1,14 @@
+[
+  {
+    "value": "map3d-buildings",
+    "name": "Buildings",
+    "cover": "components/echarts/thumb/map3d-buildings.webp",
+    "option": "components/echarts/option/map3d-buildings.js"
+  },
+  {
+    "value": "map3d-wood-city",
+    "name": "Wood City",
+    "cover": "components/echarts/thumb/map3d-wood-city.webp",
+    "option": "components/echarts/option/map3d-wood-city.js"
+  }
+]

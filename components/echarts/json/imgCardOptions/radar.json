@@ -1,0 +1,32 @@
+[
+  {
+    "value": "radar",
+    "name": "基础雷达图",
+    "cover": "components/echarts/thumb/radar.webp",
+    "option": "components/echarts/option/radar.js"
+  },
+  {
+    "value": "radar-aqi",
+    "name": "AQI - 雷达图",
+    "cover": "components/echarts/thumb/radar-aqi.webp",
+    "option": "components/echarts/option/radar-aqi.js"
+  },
+  {
+    "value": "radar-custom",
+    "name": "自定义雷达图",
+    "cover": "components/echarts/thumb/radar-custom.webp",
+    "option": "components/echarts/option/radar-custom.js"
+  },
+  {
+    "value": "radar2",
+    "name": "浏览器占比变化",
+    "cover": "components/echarts/thumb/radar2.webp",
+    "option": "components/echarts/option/radar2.js"
+  },
+  {
+    "value": "radar-multiple",
+    "name": "多雷达图",
+    "cover": "components/echarts/thumb/radar-multiple.webp",
+    "option": "components/echarts/option/radar-multiple.js"
+  }
+]

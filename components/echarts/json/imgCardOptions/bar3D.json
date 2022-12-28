@@ -1,0 +1,74 @@
+[
+  {
+    "value": "bar3d-dataset",
+    "name": "使用 dataset 为三维柱状图设置数据",
+    "cover": "components/echarts/thumb/bar3d-dataset.webp",
+    "option": "components/echarts/option/bar3d-dataset.js"
+  },
+  {
+    "value": "bar3d-global-population",
+    "name": "Bar3D - Global Population",
+    "cover": "components/echarts/thumb/bar3d-global-population.webp",
+    "option": "components/echarts/option/bar3d-global-population.js"
+  },
+  {
+    "value": "bar3d-myth",
+    "name": "星云",
+    "cover": "components/echarts/thumb/bar3d-myth.webp",
+    "option": "components/echarts/option/bar3d-myth.js"
+  },
+  {
+    "value": "bar3d-noise-modified-from-marpi-demo",
+    "name": "Noise modified from marpi's demo",
+    "cover": "components/echarts/thumb/bar3d-noise-modified-from-marpi-demo.webp",
+    "option": "components/echarts/option/bar3d-noise-modified-from-marpi-demo.js"
+  },
+  {
+    "value": "bar3d-punch-card",
+    "name": "Bar3D - Punch Card",
+    "cover": "components/echarts/thumb/bar3d-punch-card.webp",
+    "option": "components/echarts/option/bar3d-punch-card.js"
+  },
+  {
+    "value": "bar3d-simplex-noise",
+    "name": "Bar3D - Simplex Noise",
+    "cover": "components/echarts/thumb/bar3d-simplex-noise.webp",
+    "option": "components/echarts/option/bar3d-simplex-noise.js"
+  },
+  {
+    "value": "bar3d-voxelize-image",
+    "name": "Voxelize image",
+    "cover": "components/echarts/thumb/bar3d-voxelize-image.webp",
+    "option": "components/echarts/option/bar3d-voxelize-image.js"
+  },
+  {
+    "value": "global-population-bar3d-on-globe",
+    "name": "Global Population - Bar3D on Globe",
+    "cover": "components/echarts/thumb/global-population-bar3d-on-globe.webp",
+    "option": "components/echarts/option/global-population-bar3d-on-globe.js"
+  },
+  {
+    "value": "image-to-bar3d",
+    "name": "Image to Bar3D",
+    "cover": "components/echarts/thumb/image-to-bar3d.webp",
+    "option": "components/echarts/option/image-to-bar3d.js"
+  },
+  {
+    "value": "metal-bar3d",
+    "name": "Metal Bar3D",
+    "cover": "components/echarts/thumb/metal-bar3d.webp",
+    "option": "components/echarts/option/metal-bar3d.js"
+  },
+  {
+    "value": "stacked-bar3d",
+    "name": "Stacked Bar3D",
+    "cover": "components/echarts/thumb/stacked-bar3d.webp",
+    "option": "components/echarts/option/stacked-bar3d.js"
+  },
+  {
+    "value": "transparent-bar3d",
+    "name": "Transparent Bar3D",
+    "cover": "components/echarts/thumb/transparent-bar3d.webp",
+    "option": "components/echarts/option/transparent-bar3d.js"
+  }
+]

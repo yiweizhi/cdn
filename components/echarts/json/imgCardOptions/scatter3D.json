@@ -1,0 +1,38 @@
+[
+  {
+    "value": "scatter3d",
+    "name": "Scatter3D",
+    "cover": "components/echarts/thumb/scatter3d.webp",
+    "option": "components/echarts/option/scatter3d.js"
+  },
+  {
+    "value": "scatter3D-dataset",
+    "name": "使用 dataset 为三维散点图设置数据",
+    "cover": "components/echarts/thumb/scatter3D-dataset.webp",
+    "option": "components/echarts/option/scatter3D-dataset.js"
+  },
+  {
+    "value": "scatter3d-globe-population",
+    "name": "Scatter3D - Globe Population",
+    "cover": "components/echarts/thumb/scatter3d-globe-population.webp",
+    "option": "components/echarts/option/scatter3d-globe-population.js"
+  },
+  {
+    "value": "scatter3d-orthographic",
+    "name": "三维散点图正交投影",
+    "cover": "components/echarts/thumb/scatter3d-orthographic.webp",
+    "option": "components/echarts/option/scatter3d-orthographic.js"
+  },
+  {
+    "value": "scatter3d-scatter",
+    "name": "三维散点图和散点矩阵结合使用",
+    "cover": "components/echarts/thumb/scatter3d-scatter.webp",
+    "option": "components/echarts/option/scatter3d-scatter.js"
+  },
+  {
+    "value": "scatter3d-simplex-noise",
+    "name": "Scatter3D - Simplex Noise",
+    "cover": "components/echarts/thumb/scatter3d-simplex-noise.webp",
+    "option": "components/echarts/option/scatter3d-simplex-noise.js"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "value": "graphgl-gpu-layout",
+    "name": "GraphGL GPU Layout",
+    "cover": "components/echarts/thumb/graphgl-gpu-layout.webp",
+    "option": "components/echarts/option/graphgl-gpu-layout.js"
+  },
+  {
+    "value": "graphgl-large-internet",
+    "name": "GraphGL - Large Internet",
+    "cover": "components/echarts/thumb/graphgl-large-internet.webp",
+    "option": "components/echarts/option/graphgl-large-internet.js"
+  },
+  {
+    "value": "graphgl-npm-dep",
+    "name": "1w 节点 2w7 边的NPM 依赖图",
+    "cover": "components/echarts/thumb/graphgl-npm-dep.webp",
+    "option": "components/echarts/option/graphgl-npm-dep.js"
+  }
+]
