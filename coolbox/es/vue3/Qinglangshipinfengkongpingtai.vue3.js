@@ -1,0 +1,4 @@
+const Qinglangshipinfengkongpingtai_vue_vue_type_style_index_0_scoped_575236ed_lang = "";
+export {
+  Qinglangshipinfengkongpingtai_vue_vue_type_style_index_0_scoped_575236ed_lang as default
+};
